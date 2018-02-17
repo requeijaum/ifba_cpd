@@ -1,0 +1,1 @@
+Meu Mac não é Intel. Logo os executáveis das questões podem não rodam em qualquer computador. Compilem e testem cada código.

@@ -1,0 +1,12 @@
+#ignorar portugol
+
+*portugol
+
+#ignorar coisas inuteis
+*.DS_Store
+*.Thumbs.db
+*.o
+*.exe
+Makefile*
+*.dev
+
